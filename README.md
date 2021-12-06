@@ -1,2 +1,2 @@
-# post_malone_solana_NFT_drop
-man I wanna Go Flex
+# Post Malone NFTs on Solana
+https://postmalone-nft-solana.vercel.app/
