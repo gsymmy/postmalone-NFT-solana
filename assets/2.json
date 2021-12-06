@@ -1,0 +1,19 @@
+{
+    "name": "Hollywood's Bleeding",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7Yu2V8897mXES81YmmwJAL5yK29GqgKtvjW6AMsUoHRp",
+          "share": 100
+        }
+      ]
+    }
+  }
